@@ -18,5 +18,8 @@ This process repeats for all the Navigation links through Robotic Peocessing Aut
 # References
 -  (2023). UiPath Community 2023.10 Release - Recap, Can't Find Excel Application Scope Option In UiPath, 18 July. Available at: https://forum.uipath.comcant-find-excel-application-scope-option-in-uipath/5303
 -  (2023). Managing Projects With GIT, UiPath Documentation, 4 October. Available at: https://docs.uipath.com/studio/standalone/2023.4/user-guide/managing-projects-git
+-  Edureka (2021). RPA Projects in 60 Minutes - Automation Anywhere | Real-Life RPA Projects | Edureka | RPA Live - 1. Available at: https://www.youtube.com/watch?v=0UJnk-bVgNg. Date accessed 18 October 2023].
+-  Moorthy, K. (2022). How to Click Element if we have other duplicate id’s. UiPath Community Forum. Available at: https://forum.uipath.com/t/how-to-click-element-if-we-have-other-duplicate-ids/481528
+-  uipath (2023). Data Service Automation Cloud User Guide. Uipath.com. Available at: https://docs.uipath.com/data-service/automation-cloud/latest/user-guide/date-time
 - What is robotic process automation, Available at: https://www.uipath.com/rpa/robotic-process-automation
 -
